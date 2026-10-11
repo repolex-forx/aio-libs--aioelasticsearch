@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "aioelasticsearch",
+  "versions": [
+    {
+      "commit": "81b6ae343489cefe84b1d77f758315e6d0bff3c2",
+      "parsed_at": "2026-10-11T08:54:01.600805+00:00",
+      "filetree": "filetree/81b6ae343489cefe84b1d77f758315e6d0bff3c2.nq.gz",
+      "blobs": [
+        "blob/321c757569ad34350c9497af68a946fda51cbd61.nq.gz",
+        "blob/472d66b7cf8f94d17f477e7a343cb9aba693e07a.nq.gz",
+        "blob/06ec12548b134d8a25ac81e32503acf872ccd02d.nq.gz",
+        "blob/d6099c828fc7cba64616004742fceb990d663e34.nq.gz",
+        "blob/6ffcf2d2b77f641b5f3c241a0492d748d08634a8.nq.gz",
+        "blob/ca96238d1360c886443371d66c474d5f75894489.nq.gz",
+        "blob/38b3a78cc7bb4e7fed204849d59dd4029f0e7fec.nq.gz",
+        "blob/4de2098f0fad1cb46ea4e6387d3b90b862259162.nq.gz",
+        "blob/c15645289339abc2163f177ba220fc3675344742.nq.gz",
+        "blob/510d0a90bbe1d1d4fa0e55bfc18d00f415858532.nq.gz",
+        "blob/9733f96ee97e544f7f2f38e15655dc06913057bd.nq.gz",
+        "blob/8fe11127fa25bbd8c6129538ee685e0b7a0f9747.nq.gz",
+        "blob/ca2f33b308e8f84bb805fdb87142c280b3f0ef29.nq.gz",
+        "blob/59d1c3a7f04239be337869a91a42e7eadb253cbe.nq.gz",
+        "blob/a4e19e5eec3f7b79df4e0588ea8c44c6736c05d1.nq.gz",
+        "blob/0284d00cd44a6523492efd00d9733f80136a5483.nq.gz",
+        "blob/84b1fa1b9a4d979dee785354836c06b02ef95339.nq.gz",
+        "blob/232f5269405c2ab5156c245b66d34bf5f366f75e.nq.gz",
+        "blob/44f7e27116eb850b1eaeba0f0381c6bae421ac68.nq.gz",
+        "blob/85ebeddeeaeae20a4497665a68472ca07db30ed0.nq.gz",
+        "blob/6ea20650afd318e6f414b05025314b348b228afc.nq.gz",
+        "blob/570ba28061a3878c7e7d8475160fb41e83eae4db.nq.gz",
+        "blob/e24206f7951ce600070c653a55f024bdf4d78a08.nq.gz",
+        "blob/1e3893ae01883d0bb30cc8eccbbee8ab0bbdba23.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
