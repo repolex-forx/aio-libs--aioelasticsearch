@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioelasticsearch",
+  "versions": [
+    {
+      "commit": "81b6ae343489cefe84b1d77f758315e6d0bff3c2",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:56:12.435736+00:00"
+    }
+  ]
+}
